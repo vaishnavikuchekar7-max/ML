@@ -165,14 +165,6 @@ The notebook calculates the model's accuracy and other evaluation metrics when e
 
 Actual performance values should be reported only after running the notebook successfully. Model performance depends on the dataset size, data quality, class distribution, and the representativeness of the survey responses.
 
-## 🔒 Data Privacy and Responsible Use
-
-- Do not publish names, email addresses, contact information, or other identifying survey responses.
-- Obtain appropriate permission before sharing survey data.
-- Use anonymized data or a synthetic sample dataset when demonstrating the project publicly.
-- Treat stress predictions as experimental estimates, not medical advice or diagnoses.
-- Do not use this prototype alone to make decisions about students.
-
 ## 🚀 Future Enhancements
 
 - Develop a dedicated web or mobile application.
@@ -186,20 +178,9 @@ Actual performance values should be reported only after running the notebook suc
 
 **Project:** EmoShield – Student Stress Analysis and Prediction Using Data Science and Machine Learning
 
-**Course:** BCA – Semester V Field Project
-
-**University:** SNDT Women's University
-
-**College:** SNDT Arts and Commerce College of Women
-
 **Academic Year:** 2026–2027
 
-**Project Contributors:** Vaishnavi Kuchekar and Sakshi Patil
+**Project Contributors:** Vaishnavi Kuchekar 
 
-## 📄 License
-
-No license has been specified yet. Add a suitable open-source license only if you intend to permit others to reuse, modify, or distribute the project.
-
----
 
 *EmoShield demonstrates the application of Data Science and Machine Learning to student wellbeing research. Its purpose is educational and exploratory.*
